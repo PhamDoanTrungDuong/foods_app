@@ -75,7 +75,7 @@ class _MyAppState extends State<MyApp> {
         primarySwatch: Colors.indigo,
         // ignore: deprecated_member_use
         accentColor: Colors.amberAccent,
-        canvasColor: Color.fromRGBO(255, 254, 229, 1),
+        canvasColor: Color.fromRGBO(255, 255, 255, 1),
         fontFamily: 'Raleway',
         textTheme: ThemeData.light().textTheme.copyWith(
             bodyText1: TextStyle(
